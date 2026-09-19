@@ -19,4 +19,4 @@ def is_happy(n):
 
 if __name__ == "__main__":
     assert is_happy(7) is True
-    assert id_happy(45) is False
+    assert is_happy(45) is False
