@@ -1,4 +1,5 @@
 # Happy Numbers 
+<img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/0329d7bc-ff43-43d7-bcec-7e4da01dc971" />
 
 ## Description
 In this game, you will be diving into the world of "happy" numbers. A number is considered "happy" if by following a specific sequence, it results in 1. The sequence is as follows:
